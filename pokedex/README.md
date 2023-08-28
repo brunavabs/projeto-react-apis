@@ -52,6 +52,12 @@ Os detalhes específicos de um Pokémon podem ser acessados ao clicar em um card
 ## Layout para Mobile
 ![Pokedex](./src/assets/layoutmobile.PNG)
 
+## Link do projeto (Surge - surge.sh)
+https://labenu-bvabs-pokedex.surge.sh/
+
+## Link do repositório
+https://github.com/brunavabs/projeto-react-apis.git
+
 
 
 
