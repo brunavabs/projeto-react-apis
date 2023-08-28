@@ -167,7 +167,7 @@ align-items: center;
         width: 10vw;
         min-width: 90px;
         height: 36px;
-        background-color: #483838;
+        background-color: #33A4F5;
         border-radius: 8px;
         color: #F8ED91;
         font-size: 14px;

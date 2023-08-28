@@ -109,7 +109,7 @@ function Card(props) {
                         {location.pathname === "/" || location.pathname === `/${context.pageNumber}` ?
                         <AddPokemon onClick={()=>context.addPokemonPokedex(pokemon)}>CAPTURAR</AddPokemon>
                         :
-                        <ButtonDeletePokemon onClick={()=>context.removePokemonPokedex(pokemon)}>LIBERAR</ButtonDeletePokemon>
+                        <ButtonDeletePokemon onClick={()=>context.removePokemonPokedex(pokemon)}>EXCLUIR</ButtonDeletePokemon>
                         }
                     </section>
                 </CardFooter>  

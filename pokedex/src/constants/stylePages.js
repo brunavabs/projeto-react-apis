@@ -177,7 +177,7 @@ export const SectionButtons = styled.section`
         min-height: 40px;
         border-radius: 8px;
         border: 1px solid #F8ED91;
-        box-shadow: 0px 0px 2px #904F16;
+        box-shadow: 0px 0px 2px #33A4F5;
     }
 
     button:hover{
